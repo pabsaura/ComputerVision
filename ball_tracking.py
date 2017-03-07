@@ -1,3 +1,5 @@
+##Ejercicio de prueba para seguir un objeto de color verde ##
+
 # import the necessary packages
 from collections import deque
 import numpy as np
