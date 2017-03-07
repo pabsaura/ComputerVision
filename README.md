@@ -1,2 +1,2 @@
 # ComputerVision
-Some of my work in computer vision.
+Some of my work in computer vision using OpenCv and python.
